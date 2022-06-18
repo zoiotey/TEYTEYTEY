@@ -33,9 +33,6 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 ## GARDENOL NACIONAL ##
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CBN SP Estudio1
-http://186.226.215.43:8000/play/a-e-e-hd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CBN SP Estudio
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
@@ -252,7 +249,7 @@ http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",FONTE TV Gospel
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 
-
+'
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",TV NOVO TEMPO Gospel
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 
@@ -335,7 +332,7 @@ http://rtmp.one.by:1200
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3p5CwwZ/Kids.png" group-title="KIDS",TV TUTU e ANDERSON Br Kids
-http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
+http://186.226.215.43:8000/play/a-e-e-hd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3p5CwwZ/Kids.png" group-title="KIDS",TVG Infantil Galicia Espanha
