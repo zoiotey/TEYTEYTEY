@@ -34,7 +34,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 ## GARDENOL NACIONAL ##
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CBN SP Estudio
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+Http://172.96.172.111:2095/streams/157_.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV JORNAL CARUARU
