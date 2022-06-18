@@ -241,9 +241,6 @@ http://tv02.logicahost.com.br:1935/santana01/santana01/live.m3u8
 
 ## GARDENOL GOSPEL ##
 
-#EXTINF:-1,Nickelodeon
-http://91.103.29.150:809/play/a005
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",TUTU Clipes Gospel
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w13317687.m3u8
 
