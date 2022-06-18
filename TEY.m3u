@@ -1,0 +1,19 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-logo="http://i.imgur.com/NSHvLCe.png"group-title="TV Aberta",GLOBO SP HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosphd_3a69aa1b_d82dd39a75e20c826da278f3756a18a54c83b4c8/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-logo="http://i.imgur.com/NSHvLCe.png"group-title="TV Aberta",GLOBO RJ SD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_cac94812150faabccfd6710ebb3f6117c3f9c24f/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-logo="http://i.imgur.com/NSHvLCe.png"group-title="TV Aberta",GLOBO NORDESTE SD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globonordeste_acf10f2c_3a8a1f2173ddd6f69a6c0893ecfc4d086504b39a.m3u8
+#EXTINF:-1 tvg-name=""tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-record-ao-vivo-online-249x140.png"group-title="TV Aberta",RECORD SP SD
+http://www.tv-msn.com/master.mp4
+#EXTINF:-1 tvg-name=""tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-sbt-ao-vivo-online-249x140.png"group-title="TV Aberta",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w288683295_b216000_sleng.m3u8
+#EXTINF:-1 tvg-name="A&E TEYTEYTEY"tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/ae.png"group-title="CANAIS DE FILMES",A&E HD
+https://m3u9.ml/a2/hls1/aie.m3u8?mu3zAQc9HC3GbwJq=gzk4GDNb15z7i8VOVdfqkw&3U1G7qaTxrPbalZnEx=1655617409
+#EXTINF:-1 tvg-name="SPACE"tvg-logo="http://playhdtv.pw/logs/space--.jpg"group-title="CANAIS DE FILMES",SPACE
+http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_f7e01bbbc5530bb4dceedc399ed9d59886c0527f/playlist.m3u8
+#EXTINF:-1 tvg-name="COMBATE SD"tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-combate-online-ao-vivo-24-horas-1-249x140.png"group-title="ESPORTES",COMBATE SD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_05e977a13125935674f10126e42194097766cc8a.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 SD"tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-ESPN-2-ao-vivo-online-24-horas-249x140.png"group-title="ESPORTES",ESPN 2 SD
+https://live.multicanais.com/live/espnmaissd/chunks.m3u8?md5=gOOORHniLTnUhMd2U0jCZQ&expires=1570589744
