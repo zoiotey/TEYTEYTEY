@@ -33,28 +33,50 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 ## GARDENOL NACIONAL ##
 
-#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
-http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=b5c9f71c5a76f056fda62609aa3232e1
+#EXTINF:-1,A&E
+http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
 
-#EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E FHD
-http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=b5c9f71c5a76f056fda62609aa3232e1
+#EXTINF:-1,A&E
+http://200.4.96.35:8001/play/a0e9/index.m3u8
 
-#EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E HD
-http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=b5c9f71c5a76f056fda62609aa3232e1
+#EXTINF:-1,A&E
+http://200.4.96.35:8002/play/a0e9/index.m3u8
 
-#EXTINF:-1 type="stream" tvg-id="A&E HD [Alter]" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E HD [Alter]
-http://lb.kstream.org/aovivo/HD_AE_ALTER/video.m3u8?token=b5c9f71c5a76f056fda62609aa3232e1
+#EXTINF:-1,A&E
+http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8
 
-#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC
-http://lb.kstream.org/aovivo/SD_AMC/video.m3u8?token=b5c9f71c5a76f056fda62609aa3232e1
+#EXTINF:-1,A&E
+http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CBN SP Estudio
-Http://172.96.172.111:2095/streams/157_.m3u8
+#EXTINF:-1,A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8
 
+#EXTINF:-1,AMC
+http://origin-02.nxplay.com.br/AMC_BRASIL_1558/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV JORNAL CARUARU
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1,AMC
+http://168.205.87.198:8555/live/123456/123456/14.m3u8
 
+#EXTINF:-1,AMC
+http://168.205.87.198:8555/live/123456/123456/14.ts
+
+#EXTINF:-1,AMC
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/14.m3u8
+
+#EXTINF:-1,AMC
+http://200.4.96.35:8001/play/a0dp/index.m3u8
+
+#EXTINF:-1,AMC
+http://200.4.96.35:8002/play/a0dp/index.m3u8
+
+#EXTINF:-1,AMC
+http://201.159.95.114:8000/play/a0b9/index.m3u8
+
+#EXTINF:-1,AMC
+http://168.205.87.198:8555/live/elienecp/123456/14.m3u8
+
+#EXTINF:-1,AMC HD
+http://185.236.229.21:9981/play/a04x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT PE INTERIOR
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
